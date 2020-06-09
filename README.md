@@ -7,7 +7,7 @@
 
 # Background
 
-Ballin with Data is a Data Science project by Matt Hashimoto and Calvin Chen, creating the ultimate NBA scout using ML. We got NCAA and NBA data from the `sportsreference` API ([documentation](https://sportsreference.readthedocs.io/en/stable/) here), and used ML models including Linear Regression, Neural Networks, K-Means Clustering, Decision Trees, and Random Forests in order to project an NBA player’s rookie stat line based on their college stats. We then used the anvil webapp builder to create a UI to go along with our NBA Rookie Stat predictor, which was housed in a Jupyter Notebook.
+Ballin with Data is a Data Science project by Matt Hashimoto and Calvin Chen, creating the ultimate NBA scout using ML. We got NCAA and NBA data from the `sportsreference` API (documentation [here](https://sportsreference.readthedocs.io/en/stable/)), and used ML models including Linear Regression, Neural Networks, K-Means Clustering, Decision Trees, and Random Forests in order to project an NBA player’s rookie stat line based on their college stats. We then used the anvil webapp builder to create a UI to go along with our NBA Rookie Stat predictor, which was housed in a Jupyter Notebook.
 
 Webapp link [here](https://bwdnbarookiepredictor.anvil.app/) (disclaimer: due to Anvil uplink frequently disconnecting, the frontend and backend are likely not connected. Replace the Anvil endpoint with your own on the Anvil platform).
 
